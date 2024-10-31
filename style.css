@@ -1,9 +1,7 @@
-/* Agrego algun estilo a mi proyecto */
-/* Agrego algun estilo a mi proyecto */
-/* Agrego algun estilo a mi proyecto */
-/* Agrego algun estilo a mi proyecto */
-/* Agrego algun estilo a mi proyecto */
-
 h1 {
-    color: red;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(187, 83, 151);
+    letter-spacing: 9px;
+    font-weight: 100;
 }
