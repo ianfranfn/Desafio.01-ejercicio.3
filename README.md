@@ -33,4 +33,5 @@ Se le da color al fondo.
 ## Datos del alumno
 
 Nombre: Fariña Núñez Ian Franco
-Link Github Repo: 
+Link Github Repo: https://github.com/ianfranfn/Desafio.01-ejercicio.3.git
+Link Netlify: https://desafio03-ejercicio3.netlify.app/
